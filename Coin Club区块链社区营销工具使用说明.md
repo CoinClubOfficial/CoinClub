@@ -99,7 +99,9 @@
 
 2、活动推广可参考的运营规则及文案示例：
 
-**电报****群置****顶****消息示例：**
+
+
+电报群置顶消息示例：
 
 GSC（https://www.gsc.social/）联合全球最大的加密货币社群营销平台 Coin Club（https://coinclub.global）进行了糖果空投活动。
 
@@ -119,7 +121,7 @@ GSC（https://www.gsc.social/）联合全球最大的加密货币社群营销平
 
 备注：糖果奖励 10个GSC 起发，单个用户最高可得 1000个GSC，所有奖励糖果将在活动结束后一个月内统一发放。
 
-GSCAirdrop Round 1 is live!
+GSC Airdrop Round 1 is live!
 
 1. Go to：<https://coinclub.global/airdrop/ym76f> ,Enter     your ETH address
 2. Go to：<https://t.me/gsc_official>，Send your Identifying Codes, You     can get 10 GSC by joining this group!
