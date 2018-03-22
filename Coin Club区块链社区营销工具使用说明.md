@@ -1,14 +1,20 @@
-Coin Club**区块链社区营销工具使用说明**
+Coin Club 加密货币社区营销工具使用说明
 
 
 
 为了方便用户使用 CoinClub 区块链社区多种营销工具， 我们将操作方法以及使用过程中可能会遇到的问题及编写成为用户使用手册，方便项目方使用管理工具。
 
-一、**Coin Club社区营销工具**
+
+
+一、Coin Club社区营销工具**
+
+
 
 1**、Coin Club** 社区营销工具支持哪些平台？
 
 目前仅支持基于Telegram的社区建立和管理。
+
+
 
 2**、Coin Club** 社区营销工具如何开始使用？
 
@@ -21,6 +27,8 @@ Coin Club**区块链社区营销工具使用说明**
 密码：demo@666             
 
 空投页面范例：https://coinclub.global/airdrop/ym76f
+
+
 
 3**、使用Coin Club区块链社区营销工具之前需要准备什么资料？**
 
@@ -42,17 +50,25 @@ Coin Club**区块链社区营销工具使用说明**
 - Airdrop分享规则，例如: 每邀请一个好友入群，即可再获得 5 个 COIN！
 - 项目官网，如：https://www.coinclub.global/
 
+
+
+
+
 二、如何建立**Telegram** 群？
 
 1、使用Telegram桌面客户端或APP客户端，点击 New Group，选择拉群用户，确认后即可创建完成；
 
 2、群创建完成后，进入群首页，点击Edit，可以Set Group Photo，同时可以点击Convert to SuperGroup将群组提升为超级群获得群消息置顶，专属群链接等更高权限。
 
+
+
 三、如何**关联群组和机器人？**
 
 1、在Telegram中搜索并添加一个用户名为Coin.ClubBot的官方账户。
 
 2、将Coin.ClubBot拉到已经组建的Group中并设置为管理员，并启用全部群管理权限，此时机器人已经配置完成。
+
+
 
 四、如何配置**Coin Club后台参数？**
 
@@ -74,7 +90,9 @@ Coin Club**区块链社区营销工具使用说明**
 
 以上数据示例可参考《Coin Club区块链社群营销工具信息收集表》。
 
-五、注意事**项**
+
+
+五、注意事项**
 
 1、在空投活动开始前，需要项目方确认以下问题：
 
@@ -109,9 +127,13 @@ GSCAirdrop Round 1 is live!
 2. Go to：https://t.me/gsc_official，Send your Identifying Codes, You     can get 10 GSC by joining this group!
 3. Get 10 GSC Now!     Invite 1 friend to Earn 5 More GSC. The more friends you invite, the more GSC     you will get!Note: all awards will be distributed at the end of the     activity.
 
-对外推广文案示例**：**
 
-1**、规则说明型：**
+
+对外推广文案示例：**
+
+
+
+1、规则说明型：**
 
 GSC联合 Coin Club 举办 Airdrop 空降GSC糖果活动 (2018年1月5日-2月18日)
 
@@ -129,7 +151,9 @@ GSC联合 Coin Club 举办 Airdrop 空降GSC糖果活动 (2018年1月5日-2月18
 
 分享您的专属链接，每邀请一个好友加入，将额外获得5个GSC，邀请越多，奖励越多哦！
 
-2**、数字吸引型：**
+
+
+2、数字吸引型：**
 
 GSC正在联合Coin Club免费空投10万枚GSC，送完即止！
 
